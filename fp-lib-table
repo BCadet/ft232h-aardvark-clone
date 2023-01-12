@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "CJMCU_FT232H")(type "KiCad")(uri "C:/Users/cadet/Downloads/cjmcu_ft232h-master/cjmcu_ft232h-master/CJMCU_FT232H.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+[submodule "cjmcu_ft232h"]
+	path = cjmcu_ft232h
+	url = https://github.com/joanbono/cjmcu_ft232h.git

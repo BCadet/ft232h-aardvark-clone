@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "cjmcu_ft232h")(type "Legacy")(uri "${KIPRJMOD}/cjmcu_ft232h/CJMCU_FT232H.pretty/cjmcu_ft232h.lib")(options "")(descr ""))
+)
